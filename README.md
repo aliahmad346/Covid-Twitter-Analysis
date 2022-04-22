@@ -12,9 +12,9 @@ This repository covers a big data project which aims to anticipate rise in covid
     Nikolay Kadochnikov
 
 ### Structure of the repository: 
-1. Notebooks
+1. Notebook: 
   The final jupyter notebook which contains all data cleaning and data analysis carried out in PySpark. 
-2. Slides 
+2. Slides: 
   A powerpoint summarizing key findings, exploratory data analysis, future recommendations and the business value of this project. 
 
 #### Detailed Project Description: 
